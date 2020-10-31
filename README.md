@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+hey peeps - 
+I´m a happy camper learning the basics
